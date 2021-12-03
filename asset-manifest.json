@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vtyshchenko/test_component.git/static/css/main.a0d1151e.chunk.css",
-    "main.js": "/vtyshchenko/test_component.git/static/js/main.e63468d9.chunk.js",
-    "main.js.map": "/vtyshchenko/test_component.git/static/js/main.e63468d9.chunk.js.map",
-    "runtime-main.js": "/vtyshchenko/test_component.git/static/js/runtime-main.00efdae3.js",
-    "runtime-main.js.map": "/vtyshchenko/test_component.git/static/js/runtime-main.00efdae3.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/vtyshchenko/test_component.git/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.a32baf7a.chunk.js": "/vtyshchenko/test_component.git/static/js/2.a32baf7a.chunk.js",
-    "static/js/2.a32baf7a.chunk.js.map": "/vtyshchenko/test_component.git/static/js/2.a32baf7a.chunk.js.map",
-    "index.html": "/vtyshchenko/test_component.git/index.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/vtyshchenko/test_component.git/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.a0d1151e.chunk.css.map": "/vtyshchenko/test_component.git/static/css/main.a0d1151e.chunk.css.map",
-    "static/js/2.a32baf7a.chunk.js.LICENSE.txt": "/vtyshchenko/test_component.git/static/js/2.a32baf7a.chunk.js.LICENSE.txt"
+    "main.css": "/test_component/static/css/main.a0d1151e.chunk.css",
+    "main.js": "/test_component/static/js/main.e63468d9.chunk.js",
+    "main.js.map": "/test_component/static/js/main.e63468d9.chunk.js.map",
+    "runtime-main.js": "/test_component/static/js/runtime-main.ddcebf2c.js",
+    "runtime-main.js.map": "/test_component/static/js/runtime-main.ddcebf2c.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/test_component/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.a32baf7a.chunk.js": "/test_component/static/js/2.a32baf7a.chunk.js",
+    "static/js/2.a32baf7a.chunk.js.map": "/test_component/static/js/2.a32baf7a.chunk.js.map",
+    "index.html": "/test_component/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/test_component/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.a0d1151e.chunk.css.map": "/test_component/static/css/main.a0d1151e.chunk.css.map",
+    "static/js/2.a32baf7a.chunk.js.LICENSE.txt": "/test_component/static/js/2.a32baf7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00efdae3.js",
+    "static/js/runtime-main.ddcebf2c.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.a32baf7a.chunk.js",
     "static/css/main.a0d1151e.chunk.css",
